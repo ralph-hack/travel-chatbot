@@ -1,0 +1,21 @@
+{
+  "name": "travel-chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0",
+    "openai": "^3.0.0"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "esm": "^3.2.25",
+    "mocha": "^8.4.0",
+    "nock": "^13.1.0"
+  }
+}
